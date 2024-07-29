@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20708
-Fork on GitHub
-6368
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Atsız Yazılım Founder/CEO & Fullstack Developer</h3>
 
